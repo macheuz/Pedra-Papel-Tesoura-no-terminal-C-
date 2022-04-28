@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pedra Papel Tesoura/1.0.0": {
+        "runtime": {
+          "Pedra Papel Tesoura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pedra Papel Tesoura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

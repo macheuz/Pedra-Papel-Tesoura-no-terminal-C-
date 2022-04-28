@@ -1,0 +1,15 @@
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/bin/Debug/net6.0/Pedra Papel Tesoura
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/bin/Debug/net6.0/Pedra Papel Tesoura.deps.json
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/bin/Debug/net6.0/Pedra Papel Tesoura.runtimeconfig.json
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/bin/Debug/net6.0/Pedra Papel Tesoura.dll
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/bin/Debug/net6.0/Pedra Papel Tesoura.pdb
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/obj/Debug/net6.0/Pedra Papel Tesoura.csproj.AssemblyReference.cache
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/obj/Debug/net6.0/Pedra Papel Tesoura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/obj/Debug/net6.0/Pedra Papel Tesoura.AssemblyInfoInputs.cache
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/obj/Debug/net6.0/Pedra Papel Tesoura.AssemblyInfo.cs
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/obj/Debug/net6.0/Pedra Papel Tesoura.csproj.CoreCompileInputs.cache
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/obj/Debug/net6.0/Pedra Papel Tesoura.dll
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/obj/Debug/net6.0/refint/Pedra Papel Tesoura.dll
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/obj/Debug/net6.0/Pedra Papel Tesoura.pdb
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/obj/Debug/net6.0/Pedra Papel Tesoura.genruntimeconfig.cache
+/Users/mazo/Vianna/Projetos C#/Pedra Papel Tesoura/obj/Debug/net6.0/ref/Pedra Papel Tesoura.dll
